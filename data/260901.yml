@@ -1,0 +1,60 @@
+about:
+  description: A modern and intuitive terminal-based text editor
+  license: MIT
+  homepage: https://micro-editor.github.io
+  head: 393cf24
+  archived: false
+  latestVersion: nightly
+  collectedAt: 2026-09-01T05:22:55Z
+timeline:
+  created: 2016-03-11
+  lastCommit: 2026-08-31
+  lastRelease: 2020-07-05
+popularity:
+  star: 29485
+  watcher: 255
+  fork: 1357
+  release: 39
+  contributor: 332
+  pullRequest: 412
+  issue: 2586
+language:
+  Go: 617268
+  Lua: 22517
+  Shell: 8988
+  Roff: 3859
+  Makefile: 2731
+totalLine: 655363
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-03
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-06
+    release: 2
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
