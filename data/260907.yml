@@ -5,19 +5,19 @@ about:
   head: 393cf24
   archived: false
   latestVersion: "nightly"
-  collectedAt: 2026-09-07T05:25:11Z
+  collectedAt: 2026-09-07T19:04:41Z
 timeline:
   created: 2016-03-11
   lastCommit: 2026-08-31
   lastRelease: 2020-07-05
 popularity:
-  star: 29536
+  star: 29540
   watcher: 256
-  fork: 1359
+  fork: 1360
   release: 39
   contributor: 332
-  pullRequest: 1326
-  issue: 2587
+  pullRequest: 1329
+  issue: 2588
 language:
   Go: 617268
   Lua: 22517
@@ -77,13 +77,13 @@ recent:
 total:
   release: 39
   mergedPR: 911
-  openPR: 168
+  openPR: 171
   closedIssue: 1780
-  openIssue: 807
+  openIssue: 808
   commit: 3547
 ---
 path: /home/runner/.x-repo/github.com/zyedidia/micro
-collectedAt: 2026-09-07T05:25:13Z
+collectedAt: 2026-09-07T19:04:44Z
 loc:
   Go:
     code: 20096
@@ -243,7 +243,7 @@ checks:
       - 'Warn: 0 commits out of 29 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:25:14+00:00
+  collectedAt: 2026-09-07T19:04:45+00:00
   platform:
     darwin/arm64:
       name:  micro-2.0.15-macos-arm64.tar.gz
