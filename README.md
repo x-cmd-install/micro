@@ -14,11 +14,11 @@ x install micro
 
 ## Code insight
 
-Total: **26,890** lines of code across **265** files in the top 5 languages.
+Total: **26,898** lines of code across **265** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 20,096 | 2,093 | 3,065 | 95 |
+| Go | 20,104 | 2,093 | 3,065 | 95 |
 | Yaml | 5,305 | 754 | 1,038 | 159 |
 | Lua | 552 | 39 | 73 | 7 |
 | Json | 372 | 0 | 0 | 1 |
@@ -43,16 +43,16 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2025-12-31)
-- **Last commit**: 2026-08-31
+- **Last commit**: 2026-09-10
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 29,558 · **Forks**: 1,363 · **Open issues**: 2,589 · **Contributors**: 332
+- **Stars**: 29,559 · **Forks**: 1,363 · **Open issues**: 2,589 · **Contributors**: 332
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 911 · **Open PRs**: 174 · **Closed issues**: 1816 · **Open issues**: 773 · **Commits**: 3547
+- **Releases**: 39 · **Merged PRs**: 912 · **Open PRs**: 173 · **Closed issues**: 1817 · **Open issues**: 772 · **Commits**: 3548
 
 ## Recent activity
 
@@ -134,4 +134,4 @@ Install metadata for micro lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:33:26Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:21:52Z._
