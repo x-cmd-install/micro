@@ -7,7 +7,7 @@ about:
   latestVersion: "nightly"
   latestRelease: "v2.0.15"
   latestPrerelease: "nightly"
-  collectedAt: 2026-09-10T05:36:31Z
+  collectedAt: 2026-09-10T20:33:14Z
 timeline:
   created: 2016-03-11
   lastCommit: 2026-08-31
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2025-12-31
   lastPrerelease: 2020-07-05
 popularity:
-  star: 29555
+  star: 29558
   watcher: 256
   fork: 1363
   release: 39
   contributor: 332
-  pullRequest: 1333
+  pullRequest: 1334
   issue: 2589
 language:
   Go: 617268
@@ -81,13 +81,13 @@ recent:
 total:
   release: 39
   mergedPR: 911
-  openPR: 173
-  closedIssue: 1802
-  openIssue: 787
+  openPR: 174
+  closedIssue: 1816
+  openIssue: 773
   commit: 3547
 ---
 path: /home/runner/.x-repo/github.com/zyedidia/micro
-collectedAt: 2026-09-10T05:36:35Z
+collectedAt: 2026-09-10T20:33:18Z
 loc:
   Go:
     code: 20096
