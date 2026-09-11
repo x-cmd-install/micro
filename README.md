@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 29,560 · **Forks**: 1,363 · **Open issues**: 2,589 · **Contributors**: 332
+- **Stars**: 29,559 · **Forks**: 1,363 · **Open issues**: 2,589 · **Contributors**: 332
 
 ## Totals (cumulative)
 
@@ -134,4 +134,4 @@ Install metadata for micro lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:31:02Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:21:51Z._
