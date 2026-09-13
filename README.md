@@ -14,12 +14,12 @@ x install micro
 
 ## Code insight
 
-Total: **26,898** lines of code across **265** files in the top 5 languages.
+Total: **26,900** lines of code across **265** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 20,104 | 2,093 | 3,065 | 95 |
-| Yaml | 5,305 | 754 | 1,038 | 159 |
+| Yaml | 5,307 | 754 | 1,039 | 159 |
 | Lua | 552 | 39 | 73 | 7 |
 | Json | 372 | 0 | 0 | 1 |
 | Svg | 238 | 3 | 3 | 3 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2025-12-31)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-12
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 29,559 · **Forks**: 1,363 · **Open issues**: 2,589 · **Contributors**: 332
+- **Stars**: 29,573 · **Forks**: 1,364 · **Open issues**: 2,589 · **Contributors**: 332
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 912 · **Open PRs**: 173 · **Closed issues**: 1817 · **Open issues**: 772 · **Commits**: 3548
+- **Releases**: 39 · **Merged PRs**: 913 · **Open PRs**: 174 · **Closed issues**: 1832 · **Open issues**: 757 · **Commits**: 3549
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-16 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-21 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-18 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-23 | 2 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -134,4 +134,4 @@ Install metadata for micro lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:21:51Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:36:29Z._
