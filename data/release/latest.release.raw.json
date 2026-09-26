@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4752164,
       "digest": "sha256:5737c3377043de6058846196d27b385c1a4f876e519666c08448b6d74ac1c349",
-      "download_count": 527,
+      "download_count": 529,
       "created_at": "2025-12-31T12:02:52Z",
       "updated_at": "2025-12-31T12:02:53Z",
       "browser_download_url": "https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-freebsd32.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:1ab8468555f718baeecdd910e155e08bcfdecc6dd9ab13be86dc848d723630ff",
-      "download_count": 85,
+      "download_count": 86,
       "created_at": "2025-12-31T12:02:52Z",
       "updated_at": "2025-12-31T12:02:52Z",
       "browser_download_url": "https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-freebsd32.tar.gz.sha"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4680364,
       "digest": "sha256:5ca127857bf5500be3879f1a70b27556e737a49da04a1be5334de9e8e8781ad9",
-      "download_count": 16240,
+      "download_count": 16286,
       "created_at": "2025-12-31T12:02:52Z",
       "updated_at": "2025-12-31T12:02:52Z",
       "browser_download_url": "https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-linux-arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 98,
       "digest": "sha256:49c67db04819d151c7e9f804382340750001022781d1b9550f0da0472b99f75e",
-      "download_count": 199,
+      "download_count": 201,
       "created_at": "2025-12-31T12:02:52Z",
       "updated_at": "2025-12-31T12:02:53Z",
       "browser_download_url": "https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-linux-arm64.tar.gz.sha"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 4769843,
       "digest": "sha256:a105dcf5407760d11dd29c6e014238c655b1db2b0c3f08eb0e83fc986fbda196",
-      "download_count": 2003,
+      "download_count": 2009,
       "created_at": "2025-12-31T12:02:52Z",
       "updated_at": "2025-12-31T12:02:53Z",
       "browser_download_url": "https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-linux32.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 94,
       "digest": "sha256:e78d003007c1e8650a43c8c6d9c02ff6237233b0cb3ab008497b5c8e4c415222",
-      "download_count": 65,
+      "download_count": 66,
       "created_at": "2025-12-31T12:02:52Z",
       "updated_at": "2025-12-31T12:02:52Z",
       "browser_download_url": "https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-linux32.tar.gz.sha"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 5087804,
       "digest": "sha256:267d238eac1e26ed053d13d4d48bd421b87f9eb538b604f0b2f74a85598b6cc2",
-      "download_count": 10410,
+      "download_count": 10556,
       "created_at": "2025-12-31T12:02:52Z",
       "updated_at": "2025-12-31T12:02:52Z",
       "browser_download_url": "https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-linux64-static.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 101,
       "digest": "sha256:ddc434e4c04ee732cb6f676a034f296372399e739f8d480b3e8643fa4ff88f4f",
-      "download_count": 418,
+      "download_count": 422,
       "created_at": "2025-12-31T12:02:52Z",
       "updated_at": "2025-12-31T12:02:52Z",
       "browser_download_url": "https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-linux64-static.tar.gz.sha"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 5088851,
       "digest": "sha256:dfa1b6ae53e4e0b063b54224fd2b6b0a3c3159ea09d042a3a8f5cd001844d44c",
-      "download_count": 54654,
+      "download_count": 54822,
       "created_at": "2025-12-31T12:02:52Z",
       "updated_at": "2025-12-31T12:02:53Z",
       "browser_download_url": "https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-linux64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 94,
       "digest": "sha256:31133a49fe91efbd4671d59d398a7eeeb8c8d7ac33d3cb94da4127d9f87f574e",
-      "download_count": 555,
+      "download_count": 556,
       "created_at": "2025-12-31T12:02:52Z",
       "updated_at": "2025-12-31T12:02:52Z",
       "browser_download_url": "https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-linux64.tar.gz.sha"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 4879518,
       "digest": "sha256:2ff285cc49f2ac3f7a6e9110e2dabd3c848b73eed56a8396d627c0af80a34624",
-      "download_count": 5052,
+      "download_count": 5129,
       "created_at": "2025-12-31T12:02:52Z",
       "updated_at": "2025-12-31T12:02:53Z",
       "browser_download_url": "https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-macos-arm64.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 98,
       "digest": "sha256:db5fa8b6ecf17ae436e727e3ff091ec92d5697faf5427aeb49c4772fdf20dfd5",
-      "download_count": 136,
+      "download_count": 137,
       "created_at": "2025-12-31T12:02:52Z",
       "updated_at": "2025-12-31T12:02:52Z",
       "browser_download_url": "https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-macos-arm64.tar.gz.sha"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 95,
       "digest": "sha256:27046933516deb3eb8cf615e0b9533f1b559b5fa379a42df77918110a4517e4d",
-      "download_count": 50,
+      "download_count": 51,
       "created_at": "2025-12-31T12:02:52Z",
       "updated_at": "2025-12-31T12:02:52Z",
       "browser_download_url": "https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-netbsd32.tar.gz.sha"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 5081929,
       "digest": "sha256:e4752274e8a8eb0edcd5f21e13f5a30bf0706e68b69e8cb812e86a8e95fb7151",
-      "download_count": 109,
+      "download_count": 110,
       "created_at": "2025-12-31T12:02:52Z",
       "updated_at": "2025-12-31T12:02:52Z",
       "browser_download_url": "https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-openbsd64.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 5195727,
       "digest": "sha256:d765b9bdd6478c4f5a3cbd5a93ebe7bab2b9cec30b5350016975cf1045855cee",
-      "download_count": 1160,
+      "download_count": 1168,
       "created_at": "2025-12-31T12:02:52Z",
       "updated_at": "2025-12-31T12:02:52Z",
       "browser_download_url": "https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-osx.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 90,
       "digest": "sha256:26160335f20e0fa36d74012e4e7b2a0435cf2f5c28451b5230dbaab51d8b4a20",
-      "download_count": 89,
+      "download_count": 90,
       "created_at": "2025-12-31T12:02:52Z",
       "updated_at": "2025-12-31T12:02:52Z",
       "browser_download_url": "https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-osx.tar.gz.sha"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:c796c068f17eba2534bde1318bd7a3512bd30f3fa244ac7a5260effcaa162850",
-      "download_count": 52,
+      "download_count": 53,
       "created_at": "2025-12-31T12:02:52Z",
       "updated_at": "2025-12-31T12:02:52Z",
       "browser_download_url": "https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-solaris64.tar.gz.sha"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 4676177,
       "digest": "sha256:c3d5acd5fc05afd65b7dcad3a18e0c08148e4885b4044be8d19e22a8efbf670b",
-      "download_count": 858,
+      "download_count": 862,
       "created_at": "2025-12-31T12:02:52Z",
       "updated_at": "2025-12-31T12:02:52Z",
       "browser_download_url": "https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-win-arm64.zip"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 4900904,
       "digest": "sha256:0001be61d9751af4b1f370cc4422dd62894a3285b91d43a50ccf5d6c607f7668",
-      "download_count": 2570,
+      "download_count": 2580,
       "created_at": "2025-12-31T12:02:52Z",
       "updated_at": "2025-12-31T12:02:52Z",
       "browser_download_url": "https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-win32.zip"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 89,
       "digest": "sha256:0c679f0baa845f01f50e4ed8150c6171bd8f6e64b1bc27cf0547e58d89ef7203",
-      "download_count": 86,
+      "download_count": 87,
       "created_at": "2025-12-31T12:02:52Z",
       "updated_at": "2025-12-31T12:02:52Z",
       "browser_download_url": "https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-win32.zip.sha"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 5148356,
       "digest": "sha256:90635c53c11aa2a0d997f5e3ed43528877740725500207640b29551cef18479b",
-      "download_count": 39177,
+      "download_count": 39355,
       "created_at": "2025-12-31T12:02:52Z",
       "updated_at": "2025-12-31T12:02:52Z",
       "browser_download_url": "https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-win64.zip"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 89,
       "digest": "sha256:faeec8b29f0c528c81cf0bff870bc5e50646ca508ac1ee2e847537fbdfc72e8f",
-      "download_count": 315,
+      "download_count": 316,
       "created_at": "2025-12-31T12:02:52Z",
       "updated_at": "2025-12-31T12:02:52Z",
       "browser_download_url": "https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-win64.zip.sha"
