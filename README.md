@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 29,716 · **Forks**: 1,389 · **Open issues**: 2,596 · **Contributors**: 335
+- **Stars**: 29,718 · **Forks**: 1,390 · **Open issues**: 2,596 · **Contributors**: 335
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 921 · **Open PRs**: 190 · **Closed issues**: 1869 · **Open issues**: 727 · **Commits**: 3561
+- **Releases**: 39 · **Merged PRs**: 921 · **Open PRs**: 191 · **Closed issues**: 1870 · **Open issues**: 726 · **Commits**: 3561
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-22 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-27 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-23 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-28 | 2 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for micro lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:53:10Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:01:42Z._
