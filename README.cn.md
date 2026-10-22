@@ -24,19 +24,9 @@ x install micro
 | Json | 372 | 0 | 0 | 1 |
 | Svg | 238 | 3 | 3 | 3 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **4.7 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-
 ## 源代码
 
-- **上游仓库**: <https://github.com/zyedidia/micro>
+- **上游仓库**: <https://github.com/micro-editor/micro>
 - **官网**: <https://micro-editor.github.io>
 - **许可证**: MIT
 
@@ -48,7 +38,7 @@ x install micro
 
 ## 流行度
 
-- **Star**: 29,738 · **Fork**: 1,392 · **开放 issue**: 2,598 · **贡献者**: 335
+- **Star**: 29,743 · **Fork**: 1,392 · **开放 issue**: 2,598 · **贡献者**: 335
 
 ## 累计统计
 
@@ -58,53 +48,53 @@ x install micro
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-26 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-31 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-22 | 0 | 2 | 17 | 5 | 4 | 4 |
+| last60d | 2026-08-23 | 0 | 13 | 35 | 5 | 11 | 16 |
+| 90d | 2026-07-24 | 0 | 18 | 40 | 9 | 15 | 25 |
+| last180d | 2026-04-25 | 0 | 31 | 58 | 22 | 27 | 41 |
+| 360d | 2025-10-27 | 2 | 58 | 80 | 80 | 59 | 88 |
+| last720d | 2024-11-01 | 2 | 141 | 123 | 193 | 117 | 328 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [micro-2.0.15-freebsd32.tar.gz](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-freebsd32.tar.gz) | 4.5 MiB | `native/unknown` |
-| [micro-2.0.15-freebsd32.tar.gz.sha](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-freebsd32.tar.gz.sha) | 96 B | `other` |
-| [micro-2.0.15-freebsd64.tar.gz](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-freebsd64.tar.gz) | 4.8 MiB | `native/unknown` |
-| [micro-2.0.15-freebsd64.tar.gz.sha](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-freebsd64.tar.gz.sha) | 96 B | `other` |
-| [micro-2.0.15-illumos64.tar.gz](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-illumos64.tar.gz) | 4.8 MiB | `native/unknown` |
-| [micro-2.0.15-illumos64.tar.gz.sha](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-illumos64.tar.gz.sha) | 96 B | `other` |
-| [micro-2.0.15-linux-arm.tar.gz](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-linux-arm.tar.gz) | 4.5 MiB | `native/linux/arm` |
-| [micro-2.0.15-linux-arm.tar.gz.sha](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-linux-arm.tar.gz.sha) | 96 B | `native/linux/arm` |
-| [micro-2.0.15-linux-arm64.tar.gz](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-linux-arm64.tar.gz) | 4.5 MiB | `native/linux/arm64` |
-| [micro-2.0.15-linux-arm64.tar.gz.sha](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-linux-arm64.tar.gz.sha) | 98 B | `native/linux/arm64` |
-| [micro-2.0.15-linux32.tar.gz](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-linux32.tar.gz) | 4.5 MiB | `native/unknown` |
-| [micro-2.0.15-linux32.tar.gz.sha](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-linux32.tar.gz.sha) | 94 B | `other` |
-| [micro-2.0.15-linux64-static.tar.gz](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-linux64-static.tar.gz) | 4.9 MiB | `native/unknown` |
-| [micro-2.0.15-linux64-static.tar.gz.sha](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-linux64-static.tar.gz.sha) | 101 B | `other` |
-| [micro-2.0.15-linux64.tar.gz](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-linux64.tar.gz) | 4.9 MiB | `native/unknown` |
-| [micro-2.0.15-linux64.tar.gz.sha](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-linux64.tar.gz.sha) | 94 B | `other` |
-| [micro-2.0.15-macos-arm64.tar.gz](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-macos-arm64.tar.gz) | 4.7 MiB | `native/darwin/arm64` |
-| [micro-2.0.15-macos-arm64.tar.gz.sha](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-macos-arm64.tar.gz.sha) | 98 B | `native/darwin/arm64` |
-| [micro-2.0.15-netbsd32.tar.gz](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-netbsd32.tar.gz) | 4.5 MiB | `native/unknown` |
-| [micro-2.0.15-netbsd32.tar.gz.sha](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-netbsd32.tar.gz.sha) | 95 B | `other` |
-| [micro-2.0.15-netbsd64.tar.gz](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-netbsd64.tar.gz) | 4.8 MiB | `native/unknown` |
-| [micro-2.0.15-netbsd64.tar.gz.sha](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-netbsd64.tar.gz.sha) | 95 B | `other` |
-| [micro-2.0.15-openbsd32.tar.gz](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-openbsd32.tar.gz) | 4.5 MiB | `native/unknown` |
-| [micro-2.0.15-openbsd32.tar.gz.sha](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-openbsd32.tar.gz.sha) | 96 B | `other` |
-| [micro-2.0.15-openbsd64.tar.gz](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-openbsd64.tar.gz) | 4.8 MiB | `native/unknown` |
-| [micro-2.0.15-openbsd64.tar.gz.sha](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-openbsd64.tar.gz.sha) | 96 B | `other` |
-| [micro-2.0.15-osx.tar.gz](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-osx.tar.gz) | 5.0 MiB | `native/darwin/x64` |
-| [micro-2.0.15-osx.tar.gz.sha](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-osx.tar.gz.sha) | 90 B | `native/darwin/x64` |
-| [micro-2.0.15-solaris64.tar.gz](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-solaris64.tar.gz) | 4.8 MiB | `native/unknown` |
-| [micro-2.0.15-solaris64.tar.gz.sha](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-solaris64.tar.gz.sha) | 96 B | `other` |
-| [micro-2.0.15-win-arm64.zip](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-win-arm64.zip) | 4.5 MiB | `other` |
-| [micro-2.0.15-win-arm64.zip.sha](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-win-arm64.zip.sha) | 93 B | `other` |
-| [micro-2.0.15-win32.zip](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-win32.zip) | 4.7 MiB | `native/win/x64` |
-| [micro-2.0.15-win32.zip.sha](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-win32.zip.sha) | 89 B | `native/win/x64` |
-| [micro-2.0.15-win64.zip](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-win64.zip) | 4.9 MiB | `native/win/x64` |
-| [micro-2.0.15-win64.zip.sha](https://github.com/zyedidia/micro/releases/download/v2.0.15/micro-2.0.15-win64.zip.sha) | 89 B | `native/win/x64` |
+| [micro-2.0.15-freebsd32.tar.gz](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-freebsd32.tar.gz) | 4.5 MiB | `native/unknown` |
+| [micro-2.0.15-freebsd32.tar.gz.sha](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-freebsd32.tar.gz.sha) | 96 B | `other` |
+| [micro-2.0.15-freebsd64.tar.gz](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-freebsd64.tar.gz) | 4.8 MiB | `native/unknown` |
+| [micro-2.0.15-freebsd64.tar.gz.sha](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-freebsd64.tar.gz.sha) | 96 B | `other` |
+| [micro-2.0.15-illumos64.tar.gz](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-illumos64.tar.gz) | 4.8 MiB | `native/unknown` |
+| [micro-2.0.15-illumos64.tar.gz.sha](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-illumos64.tar.gz.sha) | 96 B | `other` |
+| [micro-2.0.15-linux-arm.tar.gz](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-linux-arm.tar.gz) | 4.5 MiB | `native/linux/arm` |
+| [micro-2.0.15-linux-arm.tar.gz.sha](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-linux-arm.tar.gz.sha) | 96 B | `native/linux/arm` |
+| [micro-2.0.15-linux-arm64.tar.gz](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-linux-arm64.tar.gz) | 4.5 MiB | `native/linux/arm64` |
+| [micro-2.0.15-linux-arm64.tar.gz.sha](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-linux-arm64.tar.gz.sha) | 98 B | `native/linux/arm64` |
+| [micro-2.0.15-linux32.tar.gz](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-linux32.tar.gz) | 4.5 MiB | `native/unknown` |
+| [micro-2.0.15-linux32.tar.gz.sha](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-linux32.tar.gz.sha) | 94 B | `other` |
+| [micro-2.0.15-linux64-static.tar.gz](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-linux64-static.tar.gz) | 4.9 MiB | `native/unknown` |
+| [micro-2.0.15-linux64-static.tar.gz.sha](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-linux64-static.tar.gz.sha) | 101 B | `other` |
+| [micro-2.0.15-linux64.tar.gz](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-linux64.tar.gz) | 4.9 MiB | `native/unknown` |
+| [micro-2.0.15-linux64.tar.gz.sha](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-linux64.tar.gz.sha) | 94 B | `other` |
+| [micro-2.0.15-macos-arm64.tar.gz](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-macos-arm64.tar.gz) | 4.7 MiB | `native/darwin/arm64` |
+| [micro-2.0.15-macos-arm64.tar.gz.sha](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-macos-arm64.tar.gz.sha) | 98 B | `native/darwin/arm64` |
+| [micro-2.0.15-netbsd32.tar.gz](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-netbsd32.tar.gz) | 4.5 MiB | `native/unknown` |
+| [micro-2.0.15-netbsd32.tar.gz.sha](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-netbsd32.tar.gz.sha) | 95 B | `other` |
+| [micro-2.0.15-netbsd64.tar.gz](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-netbsd64.tar.gz) | 4.8 MiB | `native/unknown` |
+| [micro-2.0.15-netbsd64.tar.gz.sha](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-netbsd64.tar.gz.sha) | 95 B | `other` |
+| [micro-2.0.15-openbsd32.tar.gz](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-openbsd32.tar.gz) | 4.5 MiB | `native/unknown` |
+| [micro-2.0.15-openbsd32.tar.gz.sha](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-openbsd32.tar.gz.sha) | 96 B | `other` |
+| [micro-2.0.15-openbsd64.tar.gz](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-openbsd64.tar.gz) | 4.8 MiB | `native/unknown` |
+| [micro-2.0.15-openbsd64.tar.gz.sha](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-openbsd64.tar.gz.sha) | 96 B | `other` |
+| [micro-2.0.15-osx.tar.gz](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-osx.tar.gz) | 5.0 MiB | `native/darwin/x64` |
+| [micro-2.0.15-osx.tar.gz.sha](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-osx.tar.gz.sha) | 90 B | `native/darwin/x64` |
+| [micro-2.0.15-solaris64.tar.gz](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-solaris64.tar.gz) | 4.8 MiB | `native/unknown` |
+| [micro-2.0.15-solaris64.tar.gz.sha](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-solaris64.tar.gz.sha) | 96 B | `other` |
+| [micro-2.0.15-win-arm64.zip](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-win-arm64.zip) | 4.5 MiB | `other` |
+| [micro-2.0.15-win-arm64.zip.sha](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-win-arm64.zip.sha) | 93 B | `other` |
+| [micro-2.0.15-win32.zip](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-win32.zip) | 4.7 MiB | `native/win/x64` |
+| [micro-2.0.15-win32.zip.sha](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-win32.zip.sha) | 89 B | `native/win/x64` |
+| [micro-2.0.15-win64.zip](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-win64.zip) | 4.9 MiB | `native/win/x64` |
+| [micro-2.0.15-win64.zip.sha](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-win64.zip.sha) | 89 B | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -115,4 +105,4 @@ micro 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T05:19:33Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T05:15:47Z._
