@@ -33,27 +33,27 @@ x install micro
 ## 发布
 
 - **最新版本**: `nightly` (2025-12-31)
-- **最近提交**: 2026-10-07
+- **最近提交**: 2026-10-22
 - **Release 含资产**: 36 个
 
 ## 流行度
 
-- **Star**: 29,743 · **Fork**: 1,392 · **开放 issue**: 2,598 · **贡献者**: 335
+- **Star**: 29,745 · **Fork**: 1,394 · **开放 issue**: 2,599 · **贡献者**: 337
 
 ## 累计统计
 
-- **发布数**: 39 · **已合并 PR**: 921 · **开放 PR**: 194 · **已关闭 issue**: 1871 · **开放 issue**: 727 · **提交数**: 3561
+- **发布数**: 39 · **已合并 PR**: 922 · **开放 PR**: 198 · **已关闭 issue**: 1871 · **开放 issue**: 728 · **提交数**: 3562
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 2 | 17 | 5 | 4 | 4 |
-| last60d | 2026-08-23 | 0 | 13 | 35 | 5 | 11 | 16 |
-| 90d | 2026-07-24 | 0 | 18 | 40 | 9 | 15 | 25 |
-| last180d | 2026-04-25 | 0 | 31 | 58 | 22 | 27 | 41 |
-| 360d | 2025-10-27 | 2 | 58 | 80 | 80 | 59 | 88 |
-| last720d | 2024-11-01 | 2 | 141 | 123 | 193 | 117 | 328 |
+| 30d | 2026-09-23 | 0 | 3 | 19 | 4 | 5 | 5 |
+| last60d | 2026-08-24 | 0 | 11 | 36 | 5 | 11 | 17 |
+| 90d | 2026-07-25 | 0 | 19 | 44 | 9 | 16 | 26 |
+| last180d | 2026-04-26 | 0 | 31 | 62 | 22 | 28 | 42 |
+| 360d | 2025-10-28 | 2 | 59 | 82 | 80 | 60 | 89 |
+| last720d | 2024-11-02 | 2 | 142 | 127 | 192 | 117 | 329 |
 
 ## Release 资产
 
@@ -96,6 +96,25 @@ x install micro
 | [micro-2.0.15-win64.zip](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-win64.zip) | 4.9 MiB | `native/win/x64` |
 | [micro-2.0.15-win64.zip.sha](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-win64.zip.sha) | 89 B | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/micro) 上共有 **129** 个发行版报告此项目。**64** 个 ✅ 已是最新上游版本，**56** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `2.0.15` | ✅ latest |
+| Debian 14 | `2.0.15` | ✅ latest |
+| Debian 13 | `2.0.14` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.0.15` | ✅ latest |
+| Ubuntu 24.04 LTS | `2.0.13` | ⚠️ outdated |
+| Arch | `2.0.15` | ✅ latest |
+| Homebrew | `2.0.15` | ✅ latest |
+| Fedora rawhide | `2.0.15` | ✅ latest |
+| Nix unstable | `2.0.15` | ✅ latest |
+| Void | `2.0.15` | ✅ latest |
+| Alpine edge | `2.0.15` | ✅ latest |
+| openSUSE Tumbleweed | `2.0.15` | ✅ latest |
+
 ## 改进这些数据
 
 micro 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `micro` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -105,4 +124,4 @@ micro 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:15:47Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:31:40Z._
