@@ -38,22 +38,22 @@ Total: **26,898** lines of code across **265** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 29,808 · **Forks**: 1,399 · **Open issues**: 2,601 · **Contributors**: 337
+- **Stars**: 29,816 · **Forks**: 1,399 · **Open issues**: 2,602 · **Contributors**: 337
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 922 · **Open PRs**: 199 · **Closed issues**: 1879 · **Open issues**: 722 · **Commits**: 3562
+- **Releases**: 39 · **Merged PRs**: 922 · **Open PRs**: 200 · **Closed issues**: 1879 · **Open issues**: 723 · **Commits**: 3562
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 1 | 15 | 2 | 6 | 2 |
-| last60d | 2026-09-02 | 0 | 10 | 36 | 6 | 11 | 13 |
-| 90d | 2026-08-03 | 0 | 18 | 41 | 9 | 16 | 24 |
-| last180d | 2026-05-05 | 0 | 31 | 62 | 22 | 29 | 42 |
-| 360d | 2025-11-06 | 2 | 59 | 81 | 78 | 60 | 88 |
-| last720d | 2024-11-11 | 2 | 142 | 126 | 191 | 119 | 329 |
+| 30d | 2026-10-03 | 0 | 1 | 16 | 2 | 7 | 1 |
+| last60d | 2026-09-03 | 0 | 10 | 36 | 6 | 12 | 13 |
+| 90d | 2026-08-04 | 0 | 18 | 42 | 9 | 17 | 21 |
+| last180d | 2026-05-06 | 0 | 30 | 63 | 20 | 30 | 42 |
+| 360d | 2025-11-07 | 2 | 59 | 82 | 78 | 61 | 88 |
+| last720d | 2024-11-12 | 2 | 142 | 127 | 189 | 120 | 329 |
 
 ## Release assets
 
@@ -98,7 +98,7 @@ Total: **26,898** lines of code across **265** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **129** distros on [repology.org](https://repology.org/project/micro). **64** are ✅ on the latest upstream release, **56** are ⚠️ on an older version.
+Reported by **129** distros on [repology.org](https://repology.org/project/micro). **62** are ✅ on the latest upstream release, **58** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -124,4 +124,4 @@ Install metadata for micro lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:41:18Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:46:28Z._
