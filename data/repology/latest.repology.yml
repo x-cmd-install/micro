@@ -11,8 +11,68 @@
     - utkarsh@debian.org
   categories:
     - misc
-- repo: raspbian_oldstable
-  subrepo: main
+- repo: chromebrew
+  srcname: micro
+  visiblename: micro
+  version: 2.0.15
+  origversion: null
+  status: newest
+  summary: A modern and intuitive terminal-based text editor
+  licenses:
+    - MIT
+- repo: debian_11
+  subrepo: bullseye/main
+  srcname: micro
+  binnames:
+    - micro
+  visiblename: micro
+  version: 2.0.8
+  origversion: 2.0.8-1
+  status: outdated
+  maintainers:
+    - utkarsh@debian.org
+  categories:
+    - misc
+- repo: pkgsrc_current
+  srcname: editors/micro
+  binname: micro
+  visiblename: editors/micro
+  version: 2.0.15
+  origversion: 2.0.15nb9
+  status: newest
+  summary: Modern and intuitive terminal-based text editor
+  maintainers:
+    - sjmulder@netbsd.org
+  categories:
+    - editors
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: micro
+  binnames:
+    - micro
+  visiblename: micro
+  version: 2.0.8
+  origversion: 2.0.8-1
+  status: outdated
+  maintainers:
+    - utkarsh@debian.org
+  categories:
+    - editors
+- repo: alpine_3_19
+  subrepo: community
+  srcname: micro
+  binname: micro-doc
+  visiblename: micro-doc
+  version: 2.0.13
+  origversion: 2.0.13-r3
+  status: outdated
+  summary: A modern and intuitive terminal-based text editor (documentation)
+  maintainers:
+    - justin.berthault@zaclys.net
+  licenses:
+    - MIT
+- repo: debian_12
+  subrepo: bookworm/main
   srcname: micro
   binnames:
     - micro
@@ -24,27 +84,59 @@
     - utkarsh@debian.org
   categories:
     - misc
-- repo: aosc
-  srcname: app-editors/micro
+- repo: alpine_3_20
+  subrepo: community
+  srcname: micro
   binname: micro
   visiblename: micro
-  version: 2.0.15
-  origversion: 2.0.15-6
-  status: newest
-  summary: A terminal-based text editor
+  version: 2.0.13
+  origversion: 2.0.13-r6
+  status: outdated
+  summary: A modern and intuitive terminal-based text editor
   maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - editors
-- repo: scoop
-  subrepo: main
-  binname: micro
-  visiblename: micro
-  version: 2.0.15
-  origversion: null
-  status: newest
+    - cielesti@protonmail.com
   licenses:
     - MIT
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: micro
+  binnames:
+    - micro
+  visiblename: micro
+  version: 2.0.14
+  origversion: 2.0.14-1
+  status: outdated
+  maintainers:
+    - utkarsh@debian.org
+    - nilesh@debian.org
+  categories:
+    - misc
+- repo: alpine_3_20
+  subrepo: community
+  srcname: micro
+  binname: micro-doc
+  visiblename: micro-doc
+  version: 2.0.13
+  origversion: 2.0.13-r6
+  status: outdated
+  summary: A modern and intuitive terminal-based text editor (documentation)
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - MIT
+- repo: debian_14
+  subrepo: forky/main
+  srcname: micro
+  binnames:
+    - micro
+  visiblename: micro
+  version: 2.0.15
+  origversion: 2.0.15-3
+  status: newest
+  maintainers:
+    - utkarsh@debian.org
+  categories:
+    - misc
 - repo: aerynos
   srcname: micro
   visiblename: micro
@@ -58,12 +150,12 @@
 - repo: alpine_3_17
   subrepo: community
   srcname: micro
-  binname: micro
-  visiblename: micro
+  binname: micro-doc
+  visiblename: micro-doc
   version: 2.0.11
   origversion: 2.0.11-r10
   status: outdated
-  summary: A modern and intuitive terminal-based text editor
+  summary: A modern and intuitive terminal-based text editor (documentation)
   maintainers:
     - justin.berthault@zaclys.net
   licenses:
@@ -71,12 +163,12 @@
 - repo: alpine_3_17
   subrepo: community
   srcname: micro
-  binname: micro-doc
-  visiblename: micro-doc
+  binname: micro
+  visiblename: micro
   version: 2.0.11
   origversion: 2.0.11-r10
   status: outdated
-  summary: A modern and intuitive terminal-based text editor (documentation)
+  summary: A modern and intuitive terminal-based text editor
   maintainers:
     - justin.berthault@zaclys.net
   licenses:
@@ -120,45 +212,19 @@
     - justin.berthault@zaclys.net
   licenses:
     - MIT
-- repo: alpine_3_19
-  subrepo: community
+- repo: debian_unstable
+  subrepo: sid/main
   srcname: micro
-  binname: micro-doc
-  visiblename: micro-doc
-  version: 2.0.13
-  origversion: 2.0.13-r3
-  status: outdated
-  summary: A modern and intuitive terminal-based text editor (documentation)
-  maintainers:
-    - justin.berthault@zaclys.net
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: micro
-  binname: micro
+  binnames:
+    - micro
   visiblename: micro
-  version: 2.0.13
-  origversion: 2.0.13-r6
-  status: outdated
-  summary: A modern and intuitive terminal-based text editor
+  version: 2.0.15
+  origversion: 2.0.15-3
+  status: newest
   maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: micro
-  binname: micro-doc
-  visiblename: micro-doc
-  version: 2.0.13
-  origversion: 2.0.13-r6
-  status: outdated
-  summary: A modern and intuitive terminal-based text editor (documentation)
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - MIT
+    - utkarsh@debian.org
+  categories:
+    - misc
 - repo: alpine_3_21
   subrepo: community
   srcname: micro
@@ -170,17 +236,6 @@
   summary: A modern and intuitive terminal-based text editor
   maintainers:
     - cielesti@protonmail.com
-  licenses:
-    - MIT
-- repo: arch
-  subrepo: extra
-  srcname: micro
-  binname: micro
-  visiblename: micro
-  version: 2.0.15
-  origversion: 2.0.15-3
-  status: newest
-  summary: Modern and intuitive terminal-based text editor
   licenses:
     - MIT
 - repo: alpine_3_21
@@ -261,6 +316,32 @@
     - wanghao03@loongson.cn
   licenses:
     - MIT
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: micro
+  binnames:
+    - micro
+  visiblename: micro
+  version: 2.0.8
+  origversion: 2.0.8-1
+  status: outdated
+  maintainers:
+    - utkarsh@debian.org
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: micro
+  binnames:
+    - micro
+  visiblename: micro
+  version: 2.0.15
+  origversion: 2.0.15-3
+  status: newest
+  maintainers:
+    - utkarsh@debian.org
+  categories:
+    - misc
 - repo: alpine_3_24
   subrepo: community
   srcname: micro
@@ -334,6 +415,29 @@
     - MIT/BSD/Apache-2.0/MPL-2.0
   categories:
     - Editors
+- repo: aosc
+  srcname: app-editors/micro
+  binname: micro
+  visiblename: micro
+  version: 2.0.15
+  origversion: 2.0.15-6
+  status: newest
+  summary: A terminal-based text editor
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - editors
+- repo: arch
+  subrepo: extra
+  srcname: micro
+  binname: micro
+  visiblename: micro
+  version: 2.0.15
+  origversion: 2.0.15-3
+  status: newest
+  summary: Modern and intuitive terminal-based text editor
+  licenses:
+    - MIT
 - repo: aur
   srcname: micro-git
   binname: micro-git
@@ -397,43 +501,8 @@
   origversion: null
   status: outdated
   summary: A modern and intuitive terminal-based text editor
-- repo: chromebrew
-  srcname: micro
-  visiblename: micro
-  version: 2.0.15
-  origversion: null
-  status: newest
-  summary: A modern and intuitive terminal-based text editor
-  licenses:
-    - MIT
-- repo: debian_11
-  subrepo: bullseye/main
-  srcname: micro
-  binnames:
-    - micro
-  visiblename: micro
-  version: 2.0.8
-  origversion: 2.0.8-1
-  status: outdated
-  maintainers:
-    - utkarsh@debian.org
-  categories:
-    - misc
-- repo: debian_12
-  subrepo: bookworm/main
-  srcname: micro
-  binnames:
-    - micro
-  visiblename: micro
-  version: 2.0.11
-  origversion: 2.0.11-2
-  status: outdated
-  maintainers:
-    - utkarsh@debian.org
-  categories:
-    - misc
-- repo: debian_13
-  subrepo: trixie/main
+- repo: pureos_landing
+  subrepo: landing/main
   srcname: micro
   binnames:
     - micro
@@ -445,59 +514,7 @@
     - utkarsh@debian.org
     - nilesh@debian.org
   categories:
-    - misc
-- repo: debian_14
-  subrepo: forky/main
-  srcname: micro
-  binnames:
-    - micro
-  visiblename: micro
-  version: 2.0.15
-  origversion: 2.0.15-3
-  status: newest
-  maintainers:
-    - utkarsh@debian.org
-  categories:
-    - misc
-- repo: debian_unstable
-  subrepo: sid/main
-  srcname: micro
-  binnames:
-    - micro
-  visiblename: micro
-  version: 2.0.15
-  origversion: 2.0.15-3
-  status: newest
-  maintainers:
-    - utkarsh@debian.org
-  categories:
-    - misc
-- repo: devuan_4_0
-  subrepo: chimaera/main
-  srcname: micro
-  binnames:
-    - micro
-  visiblename: micro
-  version: 2.0.8
-  origversion: 2.0.8-1
-  status: outdated
-  maintainers:
-    - utkarsh@debian.org
-  categories:
-    - misc
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: micro
-  binnames:
-    - micro
-  visiblename: micro
-  version: 2.0.15
-  origversion: 2.0.15-3
-  status: newest
-  maintainers:
-    - utkarsh@debian.org
-  categories:
-    - misc
+    - editors
 - repo: epel_8
   srcname: micro
   visiblename: micro
@@ -509,22 +526,6 @@
     - MIT and ASL 2.0
   categories:
     - Unspecified
-- repo: openmandriva_rolling
-  subrepo: main/release
-  srcname: micro
-  binnames:
-    - micro
-  visiblename: micro
-  version: 2.0.14
-  origversion: 2.0.14-1
-  status: outdated
-  summary: A modern and intuitive terminal-based text editor
-  maintainers:
-    - nreist@my.devry.edu
-  licenses:
-    - MIT
-  categories:
-    - Utilities
 - repo: epel_9
   srcname: micro
   binnames:
@@ -683,6 +684,19 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND JSON AND MIT AND MPL-1.1 AND MPL-2.0
   categories:
     - Unspecified
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: micro
+  binnames:
+    - micro
+  visiblename: micro
+  version: 2.0.11
+  origversion: 2.0.11-2
+  status: outdated
+  maintainers:
+    - utkarsh@debian.org
+  categories:
+    - misc
 - repo: fedora_rawhide
   subrepo: development
   srcname: micro
@@ -847,15 +861,6 @@
     - ISC
   categories:
     - app-editors
-- repo: scoop
-  subrepo: versions
-  binname: micro-nightly
-  visiblename: micro-nightly
-  version: nightly-2026-11-04
-  origversion: null
-  status: outdated
-  licenses:
-    - MIT
 - repo: macports
   srcname: editors/micro
   binname: micro
@@ -1108,42 +1113,6 @@
     - pbsds@hotmail.com
   licenses:
     - MIT
-- repo: rosa_2019_1
-  subrepo: main/release
-  srcname: micro
-  binnames:
-    - micro
-    - micro-debuginfo
-    - micro-debugsource
-  visiblename: micro
-  version: 2.0.13
-  origversion: 2.0.13-1
-  status: outdated
-  summary: Console text editor
-  maintainers:
-    - m.novosyolov@rosalinux.ru
-  licenses:
-    - MIT
-  categories:
-    - Editors
-- repo: rosa_13
-  subrepo: main/release
-  srcname: micro
-  binnames:
-    - micro
-    - micro-debuginfo
-    - micro-debugsource
-  visiblename: micro
-  version: 2.0.15
-  origversion: 2.0.15-1
-  status: newest
-  summary: Console text editor
-  maintainers:
-    - m.novosyolov@rosalinux.ru
-  licenses:
-    - MIT
-  categories:
-    - Editors
 - repo: openbsd
   srcname: editors/micro
   binname: micro
@@ -1188,8 +1157,8 @@
     - MIT
   categories:
     - Utilities
-- repo: raspbian_stable
-  subrepo: main
+- repo: openmandriva_rolling
+  subrepo: main/release
   srcname: micro
   binnames:
     - micro
@@ -1197,11 +1166,13 @@
   version: 2.0.14
   origversion: 2.0.14-1
   status: outdated
+  summary: A modern and intuitive terminal-based text editor
   maintainers:
-    - utkarsh@debian.org
-    - nilesh@debian.org
+    - nreist@my.devry.edu
+  licenses:
+    - MIT
   categories:
-    - misc
+    - Utilities
 - repo: openmandriva_cooker
   subrepo: main/release
   srcname: micro
@@ -1316,7 +1287,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: micro
   binnames:
     - micro
@@ -1330,7 +1301,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: micro
   binnames:
     - micro
@@ -1385,33 +1356,8 @@
     - sjmulder@netbsd.org
   categories:
     - editors
-- repo: pkgsrc_current
-  srcname: editors/micro
-  binname: micro
-  visiblename: editors/micro
-  version: 2.0.15
-  origversion: 2.0.15nb9
-  status: newest
-  summary: Modern and intuitive terminal-based text editor
-  maintainers:
-    - sjmulder@netbsd.org
-  categories:
-    - editors
-- repo: pureos_byzantium
-  subrepo: byzantium/main
-  srcname: micro
-  binnames:
-    - micro
-  visiblename: micro
-  version: 2.0.8
-  origversion: 2.0.8-1
-  status: outdated
-  maintainers:
-    - utkarsh@debian.org
-  categories:
-    - editors
-- repo: pureos_landing
-  subrepo: landing/main
+- repo: raspbian_stable
+  subrepo: main
   srcname: micro
   binnames:
     - micro
@@ -1423,7 +1369,61 @@
     - utkarsh@debian.org
     - nilesh@debian.org
   categories:
-    - editors
+    - misc
+- repo: rosa_2019_1
+  subrepo: main/release
+  srcname: micro
+  binnames:
+    - micro
+    - micro-debuginfo
+    - micro-debugsource
+  visiblename: micro
+  version: 2.0.13
+  origversion: 2.0.13-1
+  status: outdated
+  summary: Console text editor
+  maintainers:
+    - m.novosyolov@rosalinux.ru
+  licenses:
+    - MIT
+  categories:
+    - Editors
+- repo: rosa_13
+  subrepo: main/release
+  srcname: micro
+  binnames:
+    - micro
+    - micro-debuginfo
+    - micro-debugsource
+  visiblename: micro
+  version: 2.0.15
+  origversion: 2.0.15-1
+  status: newest
+  summary: Console text editor
+  maintainers:
+    - m.novosyolov@rosalinux.ru
+  licenses:
+    - MIT
+  categories:
+    - Editors
+- repo: scoop
+  subrepo: main
+  binname: micro
+  visiblename: micro
+  version: 2.0.15
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: versions
+  binname: micro-nightly
+  visiblename: micro-nightly
+  version: nightly-2026-11-05
+  origversion: null
+  status: outdated
+  licenses:
+    - MIT
 - repo: slackbuilds
   srcname: development/micro
   visiblename: development/micro
@@ -1522,21 +1522,6 @@
   maintainers:
     - termux@github
 - repo: ubuntu_20_04
-  subrepo: focal/universe
-  srcname: micro
-  binnames:
-    - micro
-  visiblename: micro
-  version: 2.0.1
-  origversion: 2.0.1-1
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - rajudev@disroot.org
-    - utkarsh@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_20_04
   subrepo: focal-updates/universe
   srcname: micro
   binnames:
@@ -1547,6 +1532,21 @@
   status: outdated
   maintainers:
     - ubuntu-devel-discuss@lists.ubuntu.com
+    - rajudev@disroot.org
+    - utkarsh@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_20_04
+  subrepo: focal/universe
+  srcname: micro
+  binnames:
+    - micro
+  visiblename: micro
+  version: 2.0.1
+  origversion: 2.0.1-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
     - rajudev@disroot.org
     - utkarsh@debian.org
   categories:
