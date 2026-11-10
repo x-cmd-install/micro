@@ -38,7 +38,7 @@ Total: **26,898** lines of code across **265** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 29,861 · **Forks**: 1,399 · **Open issues**: 2,607 · **Contributors**: 337
+- **Stars**: 29,866 · **Forks**: 1,399 · **Open issues**: 2,607 · **Contributors**: 337
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **26,898** lines of code across **265** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 3 | 12 | 5 | 8 | 3 |
-| last60d | 2026-09-10 | 0 | 11 | 27 | 9 | 11 | 12 |
-| 90d | 2026-08-11 | 0 | 17 | 39 | 10 | 19 | 21 |
-| last180d | 2026-05-13 | 0 | 32 | 59 | 21 | 30 | 43 |
-| 360d | 2025-11-14 | 2 | 60 | 78 | 80 | 63 | 87 |
-| last720d | 2024-11-19 | 2 | 144 | 123 | 190 | 122 | 330 |
+| 30d | 2026-10-11 | 0 | 3 | 12 | 5 | 7 | 3 |
+| last60d | 2026-09-11 | 0 | 11 | 27 | 9 | 11 | 12 |
+| 90d | 2026-08-12 | 0 | 17 | 39 | 9 | 19 | 21 |
+| last180d | 2026-05-14 | 0 | 32 | 59 | 21 | 30 | 43 |
+| 360d | 2025-11-15 | 2 | 60 | 78 | 80 | 63 | 87 |
+| last720d | 2024-11-20 | 2 | 142 | 123 | 190 | 122 | 330 |
 
 ## Release assets
 
@@ -98,7 +98,7 @@ Total: **26,898** lines of code across **265** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **129** distros on [repology.org](https://repology.org/project/micro). **65** are ✅ on the latest upstream release, **56** are ⚠️ on an older version.
+Reported by **130** distros on [repology.org](https://repology.org/project/micro). **66** are ✅ on the latest upstream release, **56** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -124,4 +124,4 @@ Install metadata for micro lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:20:18Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:04:21Z._
