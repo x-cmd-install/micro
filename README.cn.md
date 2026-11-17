@@ -38,7 +38,7 @@ x install micro
 
 ## 流行度
 
-- **Star**: 29,902 · **Fork**: 1,404 · **开放 issue**: 2,609 · **贡献者**: 337
+- **Star**: 29,908 · **Fork**: 1,404 · **开放 issue**: 2,609 · **贡献者**: 337
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install micro
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 3 | 7 | 6 | 8 | 5 |
-| last60d | 2026-09-17 | 0 | 7 | 25 | 10 | 11 | 9 |
-| 90d | 2026-08-18 | 0 | 16 | 39 | 10 | 18 | 23 |
-| last180d | 2026-05-20 | 0 | 31 | 59 | 21 | 30 | 43 |
-| 360d | 2025-11-21 | 2 | 60 | 78 | 82 | 61 | 89 |
-| last720d | 2024-11-26 | 2 | 143 | 120 | 191 | 119 | 332 |
+| 30d | 2026-10-18 | 0 | 3 | 7 | 6 | 7 | 5 |
+| last60d | 2026-09-18 | 0 | 7 | 25 | 10 | 11 | 9 |
+| 90d | 2026-08-19 | 0 | 16 | 39 | 10 | 18 | 23 |
+| last180d | 2026-05-21 | 0 | 31 | 59 | 21 | 30 | 43 |
+| 360d | 2025-11-22 | 2 | 60 | 78 | 82 | 61 | 89 |
+| last720d | 2024-11-27 | 2 | 143 | 120 | 191 | 119 | 330 |
 
 ## Release 资产
 
@@ -96,25 +96,6 @@ x install micro
 | [micro-2.0.15-win64.zip](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-win64.zip) | 4.9 MiB | `native/win/x64` |
 | [micro-2.0.15-win64.zip.sha](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-win64.zip.sha) | 89 B | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/micro) 上共有 **129** 个发行版报告此项目。**65** 个 ✅ 已是最新上游版本，**56** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `2.0.15` | ✅ latest |
-| Debian 14 | `2.0.15` | ✅ latest |
-| Debian 13 | `2.0.14` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.0.15` | ✅ latest |
-| Ubuntu 24.04 LTS | `2.0.13` | ⚠️ outdated |
-| Arch | `2.0.15` | ✅ latest |
-| Homebrew | `2.0.15` | ✅ latest |
-| Fedora rawhide | `2.0.15` | ✅ latest |
-| Nix unstable | `2.0.15` | ✅ latest |
-| Void | `2.0.15` | ✅ latest |
-| Alpine edge | `2.0.15` | ✅ latest |
-| openSUSE Tumbleweed | `2.0.15` | ✅ latest |
-
 ## 改进这些数据
 
 micro 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `micro` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -124,4 +105,4 @@ micro 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T08:00:51Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T10:24:45Z._
