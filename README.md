@@ -14,11 +14,11 @@ x install micro
 
 ## Code insight
 
-Total: **26,914** lines of code across **265** files in the top 5 languages.
+Total: **27,945** lines of code across **267** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 20,121 | 2,098 | 3,069 | 95 |
+| Go | 21,151 | 2,104 | 3,346 | 97 |
 | Yaml | 5,303 | 754 | 1,039 | 159 |
 | Lua | 553 | 39 | 73 | 7 |
 | Json | 372 | 0 | 0 | 1 |
@@ -33,27 +33,27 @@ Total: **26,914** lines of code across **265** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2025-12-31)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-17
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 29,908 · **Forks**: 1,404 · **Open issues**: 2,609 · **Contributors**: 337
+- **Stars**: 29,918 · **Forks**: 1,404 · **Open issues**: 2,611 · **Contributors**: 338
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 925 · **Open PRs**: 194 · **Closed issues**: 1887 · **Open issues**: 722 · **Commits**: 3567
+- **Releases**: 39 · **Merged PRs**: 928 · **Open PRs**: 190 · **Closed issues**: 1889 · **Open issues**: 722 · **Commits**: 3576
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 3 | 7 | 6 | 7 | 5 |
-| last60d | 2026-09-18 | 0 | 7 | 25 | 10 | 11 | 9 |
-| 90d | 2026-08-19 | 0 | 16 | 39 | 10 | 18 | 23 |
-| last180d | 2026-05-21 | 0 | 31 | 59 | 21 | 30 | 43 |
-| 360d | 2025-11-22 | 2 | 60 | 78 | 82 | 61 | 89 |
-| last720d | 2024-11-27 | 2 | 143 | 120 | 191 | 119 | 330 |
+| 30d | 2026-10-20 | 0 | 3 | 4 | 6 | 8 | 10 |
+| last60d | 2026-09-20 | 0 | 6 | 22 | 11 | 12 | 14 |
+| 90d | 2026-08-21 | 0 | 17 | 38 | 11 | 19 | 28 |
+| last180d | 2026-05-23 | 0 | 31 | 55 | 21 | 31 | 48 |
+| 360d | 2025-11-24 | 2 | 62 | 74 | 83 | 61 | 96 |
+| last720d | 2024-11-29 | 2 | 146 | 116 | 193 | 119 | 339 |
 
 ## Release assets
 
@@ -96,6 +96,25 @@ Total: **26,914** lines of code across **265** files in the top 5 languages.
 | [micro-2.0.15-win64.zip](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-win64.zip) | 4.9 MiB | `native/win/x64` |
 | [micro-2.0.15-win64.zip.sha](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-win64.zip.sha) | 89 B | `native/win/x64` |
 
+## Distribution status
+
+Reported by **129** distros on [repology.org](https://repology.org/project/micro). **66** are ✅ on the latest upstream release, **55** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.0.15` | ✅ latest |
+| Debian 14 | `2.0.15` | ✅ latest |
+| Debian 13 | `2.0.14` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.0.15` | ✅ latest |
+| Ubuntu 24.04 LTS | `2.0.13` | ⚠️ outdated |
+| Arch | `2.0.15` | ✅ latest |
+| Homebrew | `2.0.15` | ✅ latest |
+| Fedora rawhide | `2.0.15` | ✅ latest |
+| Nix unstable | `2.0.15` | ✅ latest |
+| Void | `2.0.15` | ✅ latest |
+| Alpine edge | `2.0.15` | ✅ latest |
+| openSUSE Tumbleweed | `2.0.15` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for micro lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `micro` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -105,4 +124,4 @@ Install metadata for micro lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:24:44Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:59:35Z._
