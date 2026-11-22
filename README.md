@@ -33,27 +33,27 @@ Total: **27,945** lines of code across **267** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2025-12-31)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-21
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 29,932 · **Forks**: 1,403 · **Open issues**: 2,615 · **Contributors**: 338
+- **Stars**: 29,942 · **Forks**: 1,404 · **Open issues**: 2,615 · **Contributors**: 338
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 928 · **Open PRs**: 191 · **Closed issues**: 1891 · **Open issues**: 724 · **Commits**: 3576
+- **Releases**: 39 · **Merged PRs**: 929 · **Open PRs**: 190 · **Closed issues**: 1900 · **Open issues**: 715 · **Commits**: 3577
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 3 | 5 | 7 | 10 | 10 |
-| last60d | 2026-09-22 | 0 | 6 | 22 | 13 | 14 | 14 |
-| 90d | 2026-08-23 | 0 | 17 | 40 | 13 | 21 | 28 |
-| last180d | 2026-05-25 | 0 | 31 | 56 | 23 | 33 | 48 |
-| 360d | 2025-11-26 | 2 | 62 | 76 | 82 | 63 | 96 |
-| last720d | 2024-12-01 | 2 | 145 | 117 | 195 | 120 | 338 |
+| 30d | 2026-10-23 | 0 | 4 | 4 | 8 | 9 | 10 |
+| last60d | 2026-09-23 | 0 | 7 | 20 | 13 | 13 | 12 |
+| 90d | 2026-08-24 | 0 | 15 | 37 | 14 | 19 | 24 |
+| last180d | 2026-05-26 | 0 | 32 | 56 | 24 | 32 | 46 |
+| 360d | 2025-11-27 | 2 | 63 | 76 | 83 | 62 | 92 |
+| last720d | 2024-12-02 | 2 | 145 | 116 | 196 | 119 | 339 |
 
 ## Release assets
 
@@ -108,7 +108,7 @@ Reported by **129** distros on [repology.org](https://repology.org/project/micro
 | Ubuntu 26.04 LTS | `2.0.15` | ✅ latest |
 | Ubuntu 24.04 LTS | `2.0.13` | ⚠️ outdated |
 | Arch | `2.0.15` | ✅ latest |
-| Homebrew | `2.0.15` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `2.0.15` | ✅ latest |
 | Nix unstable | `2.0.15` | ✅ latest |
 | Void | `2.0.15` | ✅ latest |
@@ -124,4 +124,4 @@ Install metadata for micro lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:37:57Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:13:35Z._
