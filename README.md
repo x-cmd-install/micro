@@ -33,27 +33,27 @@ Total: **27,945** lines of code across **267** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2025-12-31)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-23
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 29,947 · **Forks**: 1,404 · **Open issues**: 2,615 · **Contributors**: 338
+- **Stars**: 29,959 · **Forks**: 1,405 · **Open issues**: 2,615 · **Contributors**: 339
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 929 · **Open PRs**: 190 · **Closed issues**: 1900 · **Open issues**: 715 · **Commits**: 3577
+- **Releases**: 39 · **Merged PRs**: 930 · **Open PRs**: 190 · **Closed issues**: 1900 · **Open issues**: 715 · **Commits**: 3578
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 4 | 4 | 8 | 9 | 0 |
-| last60d | 2026-09-24 | 0 | 7 | 20 | 13 | 13 | 0 |
-| 90d | 2026-08-25 | 0 | 15 | 37 | 14 | 19 | 0 |
-| last180d | 2026-05-27 | 0 | 32 | 55 | 24 | 32 | 0 |
-| 360d | 2025-11-28 | 2 | 63 | 76 | 83 | 62 | 0 |
-| last720d | 2024-12-03 | 2 | 145 | 116 | 196 | 119 | 338 |
+| 30d | 2026-10-25 | 0 | 5 | 4 | 8 | 9 | 11 |
+| last60d | 2026-09-25 | 0 | 7 | 19 | 12 | 13 | 13 |
+| 90d | 2026-08-26 | 0 | 15 | 37 | 14 | 18 | 25 |
+| last180d | 2026-05-28 | 0 | 33 | 55 | 24 | 32 | 47 |
+| 360d | 2025-11-29 | 2 | 64 | 76 | 83 | 62 | 93 |
+| last720d | 2024-12-04 | 2 | 146 | 116 | 195 | 119 | 337 |
 
 ## Release assets
 
@@ -124,4 +124,4 @@ Install metadata for micro lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:15:10Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:23:05Z._
