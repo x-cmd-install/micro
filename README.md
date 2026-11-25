@@ -38,22 +38,22 @@ Total: **27,945** lines of code across **267** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 29,959 · **Forks**: 1,405 · **Open issues**: 2,615 · **Contributors**: 339
+- **Stars**: 29,964 · **Forks**: 1,404 · **Open issues**: 2,616 · **Contributors**: 339
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 930 · **Open PRs**: 190 · **Closed issues**: 1900 · **Open issues**: 715 · **Commits**: 3578
+- **Releases**: 39 · **Merged PRs**: 930 · **Open PRs**: 190 · **Closed issues**: 1900 · **Open issues**: 716 · **Commits**: 3578
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 5 | 4 | 8 | 9 | 11 |
-| last60d | 2026-09-25 | 0 | 7 | 19 | 12 | 13 | 13 |
-| 90d | 2026-08-26 | 0 | 15 | 37 | 14 | 18 | 25 |
-| last180d | 2026-05-28 | 0 | 33 | 55 | 24 | 32 | 47 |
-| 360d | 2025-11-29 | 2 | 64 | 76 | 83 | 62 | 93 |
-| last720d | 2024-12-04 | 2 | 146 | 116 | 195 | 119 | 337 |
+| 30d | 2026-10-26 | 0 | 5 | 4 | 8 | 8 | 11 |
+| last60d | 2026-09-26 | 0 | 7 | 19 | 12 | 14 | 13 |
+| 90d | 2026-08-27 | 0 | 15 | 37 | 14 | 18 | 25 |
+| last180d | 2026-05-29 | 0 | 33 | 55 | 24 | 33 | 47 |
+| 360d | 2025-11-30 | 2 | 64 | 76 | 83 | 63 | 93 |
+| last720d | 2024-12-05 | 2 | 146 | 116 | 194 | 120 | 336 |
 
 ## Release assets
 
@@ -96,25 +96,6 @@ Total: **27,945** lines of code across **267** files in the top 5 languages.
 | [micro-2.0.15-win64.zip](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-win64.zip) | 4.9 MiB | `native/win/x64` |
 | [micro-2.0.15-win64.zip.sha](https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-win64.zip.sha) | 89 B | `native/win/x64` |
 
-## Distribution status
-
-Reported by **129** distros on [repology.org](https://repology.org/project/micro). **66** are ✅ on the latest upstream release, **55** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.0.15` | ✅ latest |
-| Debian 14 | `2.0.15` | ✅ latest |
-| Debian 13 | `2.0.14` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.0.15` | ✅ latest |
-| Ubuntu 24.04 LTS | `2.0.13` | ⚠️ outdated |
-| Arch | `2.0.15` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Fedora rawhide | `2.0.15` | ✅ latest |
-| Nix unstable | `2.0.15` | ✅ latest |
-| Void | `2.0.15` | ✅ latest |
-| Alpine edge | `2.0.15` | ✅ latest |
-| openSUSE Tumbleweed | `2.0.15` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for micro lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `micro` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -124,4 +105,4 @@ Install metadata for micro lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:23:05Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:26:21Z._
