@@ -38,22 +38,22 @@ Total: **27,945** lines of code across **267** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 29,973 · **Forks**: 1,408 · **Open issues**: 2,617 · **Contributors**: 339
+- **Stars**: 29,980 · **Forks**: 1,408 · **Open issues**: 2,618 · **Contributors**: 339
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 930 · **Open PRs**: 193 · **Closed issues**: 1900 · **Open issues**: 717 · **Commits**: 3578
+- **Releases**: 39 · **Merged PRs**: 930 · **Open PRs**: 195 · **Closed issues**: 1901 · **Open issues**: 717 · **Commits**: 3578
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 5 | 7 | 8 | 9 | 11 |
-| last60d | 2026-09-27 | 0 | 7 | 22 | 12 | 15 | 13 |
-| 90d | 2026-08-28 | 0 | 15 | 40 | 14 | 19 | 25 |
-| last180d | 2026-05-30 | 0 | 33 | 58 | 24 | 34 | 47 |
-| 360d | 2025-12-01 | 2 | 64 | 79 | 83 | 64 | 93 |
-| last720d | 2024-12-06 | 2 | 146 | 119 | 194 | 121 | 336 |
+| 30d | 2026-10-28 | 0 | 5 | 9 | 9 | 9 | 11 |
+| last60d | 2026-09-28 | 0 | 6 | 24 | 12 | 15 | 13 |
+| 90d | 2026-08-29 | 0 | 15 | 42 | 15 | 19 | 25 |
+| last180d | 2026-05-31 | 0 | 33 | 60 | 25 | 33 | 47 |
+| 360d | 2025-12-02 | 2 | 64 | 81 | 83 | 64 | 93 |
+| last720d | 2024-12-07 | 2 | 144 | 119 | 195 | 121 | 336 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for micro lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:53:27Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:24:13Z._
