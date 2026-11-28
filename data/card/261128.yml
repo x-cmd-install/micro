@@ -1,0 +1,144 @@
+about:
+  description: "A modern and intuitive terminal-based text editor"
+  license: MIT
+  homepage: https://micro-editor.github.io
+  head: fbbc7cc
+  archived: false
+  latestVersion: "nightly"
+  latestRelease: "v2.0.15"
+  latestPrerelease: "nightly"
+  collectedAt: 2026-11-28T08:51:40Z
+timeline:
+  created: 2016-03-11
+  lastCommit: 2026-11-27
+  lastVersion: 2020-07-05
+  lastRelease: 2025-12-31
+  lastPrerelease: 2020-07-05
+popularity:
+  star: 29994
+  watcher: 249
+  fork: 1407
+  release: 39
+  contributor: 340
+  pullRequest: 1387
+  issue: 2618
+language:
+  Go: 658237
+  Lua: 22564
+  Shell: 8988
+  Roff: 3859
+  Makefile: 2750
+totalBytes: 696398
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 0
+    mergedPR: 5
+    openPR: 7
+    closedIssue: 10
+    openIssue: 8
+    commit: 12
+  last60d:
+    since: 2026-09-29
+    release: 0
+    mergedPR: 6
+    openPR: 20
+    closedIssue: 13
+    openIssue: 14
+    commit: 14
+  last90d:
+    since: 2026-08-30
+    release: 0
+    mergedPR: 16
+    openPR: 39
+    closedIssue: 16
+    openIssue: 18
+    commit: 26
+  last180d:
+    since: 2026-06-01
+    release: 0
+    mergedPR: 34
+    openPR: 57
+    closedIssue: 25
+    openIssue: 32
+    commit: 48
+  last360d:
+    since: 2025-12-03
+    release: 2
+    mergedPR: 65
+    openPR: 78
+    closedIssue: 85
+    openIssue: 62
+    commit: 94
+  last720d:
+    since: 2024-12-08
+    release: 2
+    mergedPR: 145
+    openPR: 115
+    closedIssue: 196
+    openIssue: 118
+    commit: 337
+total:
+  release: 39
+  mergedPR: 931
+  openPR: 192
+  closedIssue: 1903
+  openIssue: 715
+  commit: 3579
+---
+path: /home/runner/.x-repo/github.com/micro-editor/micro
+collectedAt: 2026-11-28T08:51:42Z
+loc:
+  Go:
+    code: 21164
+    comments: 2105
+    blanks: 3347
+    files: 97
+  Yaml:
+    code: 5303
+    comments: 754
+    blanks: 1039
+    files: 159
+  Lua:
+    code: 553
+    comments: 39
+    blanks: 73
+    files: 7
+  Json:
+    code: 372
+    comments: 0
+    blanks: 0
+    files: 1
+  Svg:
+    code: 238
+    comments: 3
+    blanks: 3
+    files: 3
+  Sh:
+    code: 213
+    comments: 18
+    blanks: 49
+    files: 8
+  Makefile:
+    code: 62
+    comments: 1
+    blanks: 17
+    files: 1
+  Xml:
+    code: 53
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2785
+    blanks: 744
+    files: 16
+total:
+  code: 28048
+  comments: 5715
+  blanks: 5283
+  files: 293
+---
+
+---
